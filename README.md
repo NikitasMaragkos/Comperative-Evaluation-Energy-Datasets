@@ -1,3 +1,3 @@
 # Comperative-Evaluation-Energy-Datasets
 
-![Graphical Abstract](graphical_abstract.jpg)
+![Graphical Abstract](gra_abs_final.png)
