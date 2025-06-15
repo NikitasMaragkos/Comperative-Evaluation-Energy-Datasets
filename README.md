@@ -13,7 +13,7 @@ Our experiments evaluate model performance over **hourly**, **daily**, and **mon
 
 ## 📁 What's Included
 
-- 🧠 Implementation built on top of the [NeuralForecast](https://github.com/Nixtla/neuralforecast) library  
+- 🧠 Implementation built using [NeuralForecast](https://github.com/Nixtla/neuralforecast) library  
 - ⚡ A variety of energy datasets (consumption, generation) from [ENTSO-E](https://www.entsoe.eu/)
 - 🌦️ Matched weather datasets used as exogenous variables from [visualcrossing](https://www.visualcrossing.com/)
 - 📊 Model training, evaluation scripts, and metrics  
@@ -29,7 +29,7 @@ To support transparency and future work, the **necessary code and datasets** wil
 
 ## 📄 Reference
 
-> *[A comparative evaluation of time-series forecasting models for Energy Datasets]*  
+> *A comparative evaluation of time-series forecasting models for Energy Datasets*  
 > *Nikitas Maragkos, Ioannis Refanidis*  
 > *Computers / SI: Artificial Intelligence-Driven Innovations in Resilient Energy Systems, 2025 
 > [DOI or link – coming soon]
