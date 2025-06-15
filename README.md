@@ -29,7 +29,7 @@ To support transparency and future work, the **necessary code and datasets** wil
 
 ## 📄 Reference
 
-> *[Title of the paper to appear here]*  
-> *Authors to be listed*  
-> *Journal / Conference, Year*  
+> *[A comparative evaluation of time-series forecasting models for Energy Datasets]*  
+> *Nikitas Maragkos, Ioannis Refanidis*  
+> *Computers / SI: Artificial Intelligence-Driven Innovations in Resilient Energy Systems, 2025 
 > [DOI or link – coming soon]
