@@ -14,8 +14,8 @@ Our experiments evaluate model performance over **hourly**, **daily**, and **mon
 ## 📁 What's Included
 
 - 🧠 Implementation built on top of the [NeuralForecast](https://github.com/Nixtla/neuralforecast) library  
-- ⚡ A variety of energy datasets (consumption, generation)  
-- 🌦️ Matched weather datasets used as exogenous variables  
+- ⚡ A variety of energy datasets (consumption, generation) from [ENTSO-E](https://www.entsoe.eu/)
+- 🌦️ Matched weather datasets used as exogenous variables from [visualcrossing](https://www.visualcrossing.com/)
 - 📊 Model training, evaluation scripts, and metrics  
 - 🖼️ A graphical abstract summarizing the methodology and results  
 
@@ -23,7 +23,7 @@ Our experiments evaluate model performance over **hourly**, **daily**, and **mon
 
 ## 🔁 Reproducibility
 
-To support transparency and future work, the **necessary code and datasets** will be made publicly available prior to the publication of the paper.
+To support transparency and future work, the **necessary code and datasets** will be made publicly available before the publication of the paper.
 
 ---
 
