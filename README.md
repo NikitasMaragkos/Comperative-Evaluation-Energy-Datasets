@@ -24,7 +24,7 @@ Our experiments evaluate model performance over **hourly**, **daily**, and **mon
 ## 🔁 Reproducibility
 
 To support transparency and future work, the **necessary code and datasets** are publicly available in this repository
-under the license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
 
