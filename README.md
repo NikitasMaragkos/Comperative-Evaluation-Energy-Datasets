@@ -3,7 +3,7 @@
 This repository contains the code, datasets, and graphical abstract accompanying our paper:  
 **"A comparative evaluation of time-series forecasting models for Energy Datasets"**
 
-![Graphical Abstract](grph_abst_final.PNG)
+![Graphical Abstract](Figures/grph_abst_final.PNG)
 
 In this work, we conduct a systematic comparative analysis of state-of-the-art deep learning models—such as **DLinear**, **NBEATS**, **NHITS**, **Autoformer**, **FEDformer**, and **Informer**—across a diverse collection of **24 energy-related time series**. These datasets are enriched with aligned **weather information** (e.g., temperature, wind speed, solar radiation) to reflect more realistic forecasting scenarios.
 
