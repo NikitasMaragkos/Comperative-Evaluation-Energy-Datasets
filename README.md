@@ -35,14 +35,16 @@ We kindly request that you cite our paper along with the original websites from 
 > *Computers / SI: Artificial Intelligence-Driven Innovations in Resilient Energy Systems, 2025 
 > [DOI or link – coming soon]
 
+<details> <summary>BibTeX Current Paper</summary>
+To be added
+</details>
+
 
 > Zippenfenig, P. (2023). *Open-Meteo.com Weather API*. Zenodo. https://doi.org/10.5281/zenodo.7970649  
 > License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Website: [https://open-meteo.com/](https://open-meteo.com/)
 
-<details> <summary>BibTeX</summary>
-bibtex
-Αντιγραφή
-Επεξεργασία
+<details> <summary>BibTeX Open-Meteo</summary>
 @software{Zippenfenig_Open-Meteo,
   author = {Zippenfenig, Patrick},
   doi = {10.5281/zenodo.7970649},
@@ -53,5 +55,3 @@ bibtex
   url = {https://open-meteo.com/}
 }
 </details>
-
-Website: [https://open-meteo.com/](https://open-meteo.com/)
