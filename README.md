@@ -39,4 +39,19 @@ We kindly request that you cite our paper along with the original websites from 
 > Zippenfenig, P. (2023). *Open-Meteo.com Weather API*. Zenodo. https://doi.org/10.5281/zenodo.7970649  
 > License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+<details> <summary>BibTeX</summary>
+bibtex
+Αντιγραφή
+Επεξεργασία
+@software{Zippenfenig_Open-Meteo,
+  author = {Zippenfenig, Patrick},
+  doi = {10.5281/zenodo.7970649},
+  license = {CC-BY-4.0},
+  title = {Open-Meteo.com Weather API},
+  year = {2023},
+  copyright = {Creative Commons Attribution 4.0 International},
+  url = {https://open-meteo.com/}
+}
+</details>
+
 Website: [https://open-meteo.com/](https://open-meteo.com/)
