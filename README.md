@@ -34,7 +34,7 @@ We kindly request that you cite our paper along with the original websites from 
 > *A comparative evaluation of time-series forecasting models for Energy Datasets*  
 > *Nikitas Maragkos, Ioannis Refanidis*  
 > *Computers / SI: Artificial Intelligence-Driven Innovations in Resilient Energy Systems, 2025 
-> [Doi](https://doi.org/10.3390/computers14070246)
+> [https://doi.org/10.3390/computers14070246](https://doi.org/10.3390/computers14070246)
 
 <details> <summary>BibTeX Current Paper</summary>
 To be added
