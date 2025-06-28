@@ -64,3 +64,18 @@ Website: [https://open-meteo.com/](https://open-meteo.com/)
   url = {https://open-meteo.com/}
 }
 </details>
+
+
+<details> <summary>BibTeX NeuralForecast</summary>
+@misc{olivares2022library_neuralforecast,
+    author={Kin G. Olivares and
+            Cristian Challú and
+            Federico Garza and
+            Max Mergenthaler Canseco and
+            Artur Dubrawski},
+    title = {{NeuralForecast}: User friendly state-of-the-art neural forecasting models.},
+    year={2022},
+    howpublished={{PyCon} Salt Lake City, Utah, US 2022},
+    url={https://github.com/Nixtla/neuralforecast}
+}
+</details>
