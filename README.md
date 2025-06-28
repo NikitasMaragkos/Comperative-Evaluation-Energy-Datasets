@@ -1,4 +1,4 @@
-# 📊 Comparative Evaluation of Deep Learning Models on Weather-Informed Energy Forecasting
+# 📊 A Comparative Evaluation of Time-Series Forecasting Models for Energy Datasets
 
 This repository contains the code, datasets, and graphical abstract accompanying our paper:  
 **"A comparative evaluation of time-series forecasting models for Energy Datasets"**
