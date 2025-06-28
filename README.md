@@ -37,7 +37,16 @@ We kindly request that you cite our paper along with the original websites from 
 > [https://doi.org/10.3390/computers14070246](https://doi.org/10.3390/computers14070246)
 
 <details> <summary>BibTeX Current Paper</summary>
-To be added
+@article{maragkos2025comparative,
+  title={A Comparative Evaluation of Time-Series Forecasting Models for Energy Datasets},
+  author={Maragkos, Nikitas and Refanidis, Ioannis},
+  journal={Computers},
+  volume={14},
+  number={7},
+  pages={246},
+  year={2025},
+  publisher={MDPI}
+}
 </details>
 
 
