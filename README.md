@@ -1,7 +1,6 @@
 # 📊 A Comparative Evaluation of Time-Series Forecasting Models for Energy Datasets
 
-This repository contains the code, datasets, and graphical abstract accompanying our paper:  
-**"A comparative evaluation of time-series forecasting models for Energy Datasets"**
+This repository contains the code, datasets, and graphical abstract accompanying our paper:  **"A comparative evaluation of time-series forecasting models for Energy Datasets"**
 
 ![Graphical Abstract](Figures/grph_abst_final.PNG)
 
